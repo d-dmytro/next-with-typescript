@@ -31,4 +31,4 @@ This command starts the app in the development mode on http://localhost:3000
 1. Focus the terminal window where you started the app
 2. Press `CTRL` + `C`
 
-This should kill the process running the app.
+This should kill the process running the development mode.
