@@ -1,4 +1,4 @@
-# Basic Next with TypeScript Setup
+# [LEGACY] Basic Next with TypeScript Setup
 
 ## Installation
 
